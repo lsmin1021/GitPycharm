@@ -5,3 +5,6 @@ print("hot fix!")
 
 #adding new item in master branch
 print("World")
+
+#adding new item in Hotfix
+print("Hi world")
